@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OpraIntern</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="user_id">User Id</string>
+    <string name="cow">Cow</string>
+    <string name="baffalo">Baffalo</string>
+    <string name="fat">FAT</string>
+    <string name="generate_bill">Generate Bill</string>
+    <string name="quantity">Select Rase</string>
+
+</resources>
