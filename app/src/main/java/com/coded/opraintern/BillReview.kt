@@ -115,7 +115,7 @@ class BillReview : AppCompatActivity() {
         val info = BillInfo(username,"bull",quantity,fat,snf, fat_rate as String,
             snf_rate as String, Milk_Rate as String, Total_Bill
         )
-        db.collection("pricing").document().set(info)
+        db.collection("billing").document().set(info)
     }
 
     @SuppressLint("SetTextI18n")
