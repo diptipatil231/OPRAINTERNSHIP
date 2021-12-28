@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644737650392",
+    "project_id": "dairy-milk-collection-opra",
+    "storage_bucket": "dairy-milk-collection-opra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644737650392:android:222cfa8e2d5d1b08e111ad",
+        "android_client_info": {
+          "package_name": "com.coded.opraintern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644737650392-89ekp1nh2je9kr3456sc8a8bo8hc09jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfuWk05KYZKuIkolA-SBL7t0YDJvYA82g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644737650392-89ekp1nh2je9kr3456sc8a8bo8hc09jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -10,5 +10,6 @@
     <string name="fat">FAT</string>
     <string name="generate_bill">Generate Bill</string>
     <string name="quantity">Select Rase</string>
+    <string name="signup">Sign Up</string>
 
 </resources>
